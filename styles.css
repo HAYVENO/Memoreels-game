@@ -5,11 +5,16 @@ html > * {
 	box-sizing: border-box;
 }
 
+* {
+	box-sizing: border-box;
+}
+
 html {
 	line-height: 0;
 }
 
 body {
+	box-sizing: border-box;
 	text-align: center;
 	background-color: black;
 	background-image: linear-gradient(to bottom, #440046, #5f025f 100%);
@@ -26,7 +31,9 @@ header {
 	font-size: 1.3rem;
 	background: linear-gradient(to right, #fdc600, #ffd500 100%);
 	display: block;
-	padding: 18px 2rem;
+	padding: 2%;
+	display: block;
+	margin: auto;
 	width: 100%;
 	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
 }
@@ -67,17 +74,6 @@ h1 {
 	box-shadow: 4px 8px 16px 6px rgba(0, 0, 0, 0.471);
 
 	border-radius: 40%; /* use half of the height for border-radius */
-}
-
-@media only screen and (max-width: 850px) {
-	.btn {
-		margin: 10px;
-		height: 6rem;
-		width: 6rem;
-		border: 1px solid rgb(179, 179, 179);
-		box-shadow: 2px 4px 8px 3px rgba(0, 0, 0, 0.471);
-		border-radius: 50%; /* use half of the height for border-radius */
-	}
 }
 
 .game-over {
@@ -122,4 +118,23 @@ footer p {
 	font-size: 0.8rem;
 	padding: 1rem;
 	margin: 0;
+}
+
+@media only screen and (max-width: 850px) {
+	header {
+		font-size: 0.5rem;
+	}
+
+	#level-title {
+		font-size: 0.9rem;
+	}
+
+	.btn {
+		margin: 6px;
+		height: 5rem;
+		width: 5rem;
+		border: 1px solid rgb(179, 179, 179);
+		box-shadow: 2px 4px 8px 3px rgba(0, 0, 0, 0.471);
+		border-radius: 50%; /* use half of the height for border-radius */
+	}
 }
