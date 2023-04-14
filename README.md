@@ -7,15 +7,15 @@ Exercise your memory and reflexes with Memoreels - the sound memory game!
 ![Memoreels game](https://res.cloudinary.com/detye5zx5/image/upload/v1681512254/Screenshot_2023-04-14_at_23.44.03_emqq3r.png)
 Memoreels is a fun, simple, but addictive **cross-platform** memory game that challenges your memory skills and reflexes. Memoreels is simple - yet challenging, and it's perfect for improving your cognitive abilities.
 
-## Skills Showcased in this App
+## Main Skills Showcased
 
 Memoreels is one of my first projects. Initially built for a JS logic challenge to test my skills in Javascript, I went ahead to improve on the logic and UI.
 
-**Vanilla JavaScript:** The game is programmed entirely with vanilla JavaScript, without the use of any external frameworks or libraries. This demonstrates my ability to work with the core features of the language and write efficient code.
+**A. Vanilla JavaScript:** The game is programmed entirely with vanilla JavaScript, without the use of any external frameworks or libraries. This demonstrates my ability to work with the core features of the language and write efficient code.
 
-**Game Logic:** I implemented the game logic using loops and functions, with each button having its unique ID and sound. This enables the game to scale and adapt to various screen sizes and device types.
+**B. Game Logic:** I implemented the game logic using loops and functions, with each button having its unique ID and sound. This enables the game to scale and adapt to various screen sizes and device types.
 
-**User Interface Design:** Memoreels is also intended to showcase an eye for creating simple, visually appealing **responsive design**. The game has a clean and modern look and feel, with a colour scheme that's easy on the eyes.
+**C. User Interface Design:** Memoreels is also intended to showcase an eye for creating simple, visually appealing **responsive design**. The game has a clean and modern look and feel, with a colour scheme that's easy on the eyes.
 
 ## Cloning or Forking the App
 
