@@ -109,7 +109,7 @@ function checkAnswer(currentlevel) {
 		document.querySelector("body").classList.add("game-over");
 		document.querySelector(
 			"h2"
-		).innerHTML = `:( OOPS! WRONG BUTTON. <br> GAME OVER AT <em>LEVEL ${level}</em>`;
+		).innerHTML = ` OOPS! WRONG BUTTON ☹️ <br> GAME OVER AT <em>LEVEL ${level}</em>`;
 
 		setTimeout(() => {
 			document.querySelector("body").classList.remove("game-over");
