@@ -4,6 +4,7 @@ Exercise your memory and reflexes with Memoreels - the sound memory game!
 
 ## What is Memoreels?
 
+![Memoreels game](https://res.cloudinary.com/detye5zx5/image/upload/v1681511508/all-devices-black_1_vfm5pq.png)
 Memoreels is a fun, simple, but addictive **cross-platform** memory game that challenges your memory skills and reflexes. Memoreels is simple - yet challenging, and it's perfect for improving your cognitive abilities.
 
 ## Skills Showcased in this App
