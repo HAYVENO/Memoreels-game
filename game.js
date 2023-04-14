@@ -78,6 +78,12 @@ document.addEventListener("keydown", function () {
 		nextSequence();
 	}
 });
+// FOR MOBILE - TAP THE SCREEN TO BEGIN
+document.addEventListener("touchstart", function () {
+	if (level == 0) {
+		nextSequence();
+	}
+});
 
 // STEP V, (GAMER'S CHOICE Vs GAME PATTERN)**************
 function checkAnswer(currentlevel) {
