@@ -72,7 +72,7 @@ h1 {
 	border: 2px solid rgb(179, 179, 179);
 	box-shadow: 4px 8px 16px 6px rgba(0, 0, 0, 0.471);
 
-	border-radius: 40%; /* use half of the height for border-radius */
+	border-radius: 50%; /* use half of the height for border-radius */
 }
 
 .game-over {
