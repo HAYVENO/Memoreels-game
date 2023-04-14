@@ -1,8 +1,12 @@
-html {
-	line-height: 0;
+html > * {
+	line-height: 1;
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+}
+
+html {
+	line-height: 0;
 }
 
 body {
@@ -27,17 +31,22 @@ header {
 	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
 }
 
+h1 {
+	margin: 0;
+	padding: 0.5rem 0;
+}
+
 #level-title {
-	font-family: "Press Start 2P", cursive;
+	/* font-family: "Press Start 2P", cursive; */
+	font-family: monospace;
 	display: block;
-	font-size: 1.5rem;
+	font-size: 1.4rem;
 	padding: 1.5rem 0rem;
-	line-height: 0;
 	color: #eaeaea;
 	min-height: 40px;
 	word-wrap: break-word;
 	white-space: normal;
-	line-height: 1.5;
+	line-height: 1.2;
 	width: 100%;
 	min-height: 74px;
 	margin: 0;
@@ -52,17 +61,29 @@ header {
 .btn {
 	margin: 20px;
 	display: inline-block;
-	height: 10rem;
-	width: 10rem;
+	height: 8rem;
+	width: 8rem;
 	border: 2px solid rgb(179, 179, 179);
 	box-shadow: 4px 8px 16px 6px rgba(0, 0, 0, 0.471);
 
 	border-radius: 40%; /* use half of the height for border-radius */
 }
 
+@media only screen and (max-width: 850px) {
+	.btn {
+		margin: 10px;
+		height: 6rem;
+		width: 6rem;
+		border: 1px solid rgb(179, 179, 179);
+		box-shadow: 2px 4px 8px 3px rgba(0, 0, 0, 0.471);
+		border-radius: 50%; /* use half of the height for border-radius */
+	}
+}
+
 .game-over {
 	background-color: rgb(129, 0, 0);
-	opacity: 0.8;
+	backdrop-filter: saturate(0);
+	transition: all 4s ease;
 }
 
 .red {
@@ -83,7 +104,7 @@ header {
 
 .pressed {
 	box-shadow: 0 0 20px white;
-	background-color: grey;
+	background-color: rgb(157, 4, 157);
 }
 
 footer {
@@ -95,9 +116,10 @@ footer {
 }
 
 footer p {
-	font-family: Georgia, "Times New Roman", Times, serif;
-	color: black;
-	background-color: #fdc600;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	color: white;
+	background-color: #2d2b2b;
 	font-size: 0.8rem;
 	padding: 1rem;
+	margin: 0;
 }
