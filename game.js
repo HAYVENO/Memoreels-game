@@ -113,7 +113,8 @@ function checkAnswer(currentlevel) {
 
 		setTimeout(() => {
 			document.querySelector("body").classList.remove("game-over");
-			document.querySelector("h2").innerHTML = "PRESS ANY KEY TO BEGIN A NEW GAME";
+			document.querySelector("h2").innerHTML =
+				"PRESS ANY KEY (TAP THE BACKGROUND) TO BEGIN A NEW GAME";
 
 			startOver();
 		}, 4000);
