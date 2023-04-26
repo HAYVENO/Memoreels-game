@@ -6,7 +6,7 @@ Exercise your memory and reflexes with Memoreels - the sound memory game!
 
 ![Memoreels game](https://res.cloudinary.com/detye5zx5/image/upload/v1681512254/Screenshot_2023-04-14_at_23.44.03_emqq3r.png)
 
-Memoreels is a fun, simple, but addictive **cross-platform** memory game that challenges your retention aptitude and reflexes. Memoreels is simple - yet challenging, and it's perfect for improving your cognitive abilities.
+<a href="https://memoreels-x.vercel.app/"  target="_blank" >Memoreels</a> is a fun, simple, but addictive **cross-platform** memory game that challenges your retention aptitude and reflexes. Memoreels is simple - yet challenging, and it's perfect for improving your cognitive abilities.
 
 ## Main Skills Showcased
 
