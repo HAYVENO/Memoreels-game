@@ -5,6 +5,13 @@ Exercise your memory and reflexes with Memoreels - the sound memory game!
 ## What is Memoreels?
 
 ![Memoreels game](https://res.cloudinary.com/detye5zx5/image/upload/v1681512254/Screenshot_2023-04-14_at_23.44.03_emqq3r.png)
+[![Website qeep.vercel.app](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://memoreels-x.vercel.app/)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)]([https://github.com/hayveno/memoreels-game/main/LICENSE](https://github.com/HAYVENO/memoreels-game/blob/main/LICENSE))
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/hayveno/memoreels-game/graphs/commit-activity) 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/hayveno/memoreels-game/issues/new)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)]([https://github.com/hayveno/memoreels-game/issues/](https://github.com/HAYVENO/memoreels-game/issues))
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/hayveno/memoreels-game/releases)
 
 <a href="https://memoreels-x.vercel.app/"  target="_blank" >Memoreels</a> is a fun, simple, but addictive **cross-platform** memory game that challenges your retention aptitude and reflexes. Memoreels is simple - yet challenging, and it's perfect for improving your cognitive abilities.
 
