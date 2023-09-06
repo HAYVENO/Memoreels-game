@@ -49,7 +49,7 @@ Memoreels game consists of a grid of buttons that light up and produce a unique 
 
 The game starts with a single button, and the sequence increases in length with each successful round. If you make a mistake, it’s game over, and you restart.
 
-Check Memoreels out on **desktop, mobile, or tablet** using the link in the About section. 🌟
+Try Memoreels out on any device using [this link](https://memoreels-x.vercel.app/). 🌟
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/hayveno/memoreels-game/issues/new)
